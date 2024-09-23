@@ -21,9 +21,9 @@ I designed and manufactured a custom PCB for the hardware, ensuring optimal inte
 Below are images of the PCBs designed for this project:
 
 ![Master Pod PCB](img1.png)
-*Master pod PCB design.*
+
 
 ![Slave Pod PCB](img2.png)
-*Slave pod PCB design.*
+
 
 
